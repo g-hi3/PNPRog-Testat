@@ -1,0 +1,3 @@
+C:\Users\mfo\Downloads\TestUIThread\obj\x86\Debug\TestUIThread.csprojAssemblyReference.cache
+C:\Users\mfo\Downloads\TestUIThread\obj\x86\Debug\TestUIThread.Properties.Resources.resources
+C:\Users\mfo\Downloads\TestUIThread\obj\x86\Debug\TestUIThread.csproj.GenerateResource.cache
